@@ -40,4 +40,6 @@ group :production do
 
 gem 'pg'
 
+ruby '2.2.6'
+
 end
